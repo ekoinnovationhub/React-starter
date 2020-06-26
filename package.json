@@ -1,7 +1,7 @@
 {
-  "name": "dfwebsite",
+  "name": "reactstarter",
   "version": "1.0.0",
-  "description": "datafield website v1.0.0",
+  "description": "starter template for ekoinnovation react projects",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
